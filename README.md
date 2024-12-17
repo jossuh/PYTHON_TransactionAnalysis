@@ -1,6 +1,6 @@
 # ATM Transaction Forecasting with Python 📊
 
-![banner](banner.jpg)
+![banner](PythonDashboard.png)
 
 ## Description
 
