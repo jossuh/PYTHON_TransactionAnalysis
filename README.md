@@ -6,7 +6,7 @@
 
 This project leverages Python for comprehensive data analysis and predictive modeling to forecast ATM transaction trends.
 
-Key Highlights:
+## Key Highlights:
 
 -Data Analysis: Utilized Pandas to clean, transform, and analyze the transaction dataset, uncovering trends and patterns.
 
